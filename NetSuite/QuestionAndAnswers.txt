@@ -150,6 +150,10 @@ C) Given a NEW_SUPERVISOR table (columns: EMPID, SUPERVISOR), write an update
 --------------------------------------------------------------------------------
 QUESTION 3
 
+
+I don't  understand this question. Could you explain me detailed, please?
+
+
 Given a non-negative real number a, its square root is a number x, such that x * x = a.
 One way to compute a square root is via successive approximation, where one estimate
 yields a better estimate.
